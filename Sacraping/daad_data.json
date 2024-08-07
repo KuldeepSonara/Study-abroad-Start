@@ -1,0 +1,2442 @@
+{
+    "courses": [
+        {
+            "id": 4960,
+            "image": "/app/ip/media/cache/resolve/16_9_300px/uploads/images/image/online/5eb302e5bfd0d581357788.jpeg",
+            "copyright": "Pexels",
+            "courseName": "Academic Life in Leipzig \u2013 Autumn Language Course for International Researchers, Doctoral Candidates, and Students",
+            "courseNameShort": "Academic Life in Leipzig \u2013 Autumn Language Course",
+            "academy": "Leipzig University",
+            "city": "Leipzig",
+            "languages": [
+                "German"
+            ],
+            "languageLevelGerman": [
+                "A1",
+                "A2",
+                "B1",
+                "B2",
+                "C1"
+            ],
+            "languageLevelEnglish": null,
+            "beginning": null,
+            "programmeDuration": null,
+            "date": [
+                {
+                    "start": "2025-09-01",
+                    "end": "2025-09-26",
+                    "costs": 1025,
+                    "registrationDeadline": "2025-08-04",
+                    "selectHskHwk": "HSK"
+                }
+            ],
+            "typeCourseDate": "The date of the course has been set",
+            "costString": null,
+            "tuitionFees": null,
+            "courseType": 5,
+            "isElearning": false,
+            "preparationForDegree": null,
+            "preparationForSubjectGroups": null,
+            "applicationDeadline": null,
+            "isCompleteOnlinePossible": false,
+            "badgeLabel": "",
+            "financialSupport": null,
+            "structuredResearch": null,
+            "supportInternationalStudents": null,
+            "subject": "German Language Course (including Literature and Culture Studies)",
+            "typeOfElearning": [
+                "1",
+                "3",
+                "5",
+                "6",
+                "10"
+            ],
+            "link": "/deutschland/studienangebote/international-programmes/en/detail/4960/",
+            "requestLanguage": "en"
+        }
+    ],
+    "numResults": 2277,
+    "filter": {
+        "degree": [
+            {
+                "value": "1",
+                "count": 324
+            },
+            {
+                "value": "2",
+                "count": 1520
+            },
+            {
+                "value": "3",
+                "count": 168
+            },
+            {
+                "value": "4",
+                "count": 26
+            },
+            {
+                "value": "5",
+                "count": 130
+            },
+            {
+                "value": "6",
+                "count": 114
+            },
+            {
+                "value": "7",
+                "count": 29
+            },
+            {
+                "value": "8",
+                "count": 254
+            },
+            {
+                "value": "10",
+                "count": 417
+            }
+        ],
+        "lang": [
+            {
+                "value": "1",
+                "count": 179
+            },
+            {
+                "value": "2",
+                "count": 1804
+            },
+            {
+                "value": "3",
+                "count": 93
+            },
+            {
+                "value": "4",
+                "count": 200
+            }
+        ],
+        "fos": [
+            {
+                "value": "1",
+                "count": 126
+            },
+            {
+                "value": "2",
+                "count": 105
+            },
+            {
+                "value": "3",
+                "count": 590
+            },
+            {
+                "value": "4",
+                "count": 505
+            },
+            {
+                "value": "5",
+                "count": 902
+            },
+            {
+                "value": "6",
+                "count": 917
+            },
+            {
+                "value": "7",
+                "count": 113
+            },
+            {
+                "value": "8",
+                "count": 22
+            },
+            {
+                "value": "9",
+                "count": 11
+            }
+        ],
+        "subjects": [
+            {
+                "value": "1",
+                "count": 67
+            },
+            {
+                "value": "2",
+                "count": 29
+            },
+            {
+                "value": "3",
+                "count": 12
+            },
+            {
+                "value": "4",
+                "count": 42
+            },
+            {
+                "value": "5",
+                "count": 10
+            },
+            {
+                "value": "6",
+                "count": 39
+            },
+            {
+                "value": "7",
+                "count": 60
+            },
+            {
+                "value": "8",
+                "count": 17
+            },
+            {
+                "value": "9",
+                "count": 6
+            },
+            {
+                "value": "10",
+                "count": 24
+            },
+            {
+                "value": "11",
+                "count": 351
+            },
+            {
+                "value": "12",
+                "count": 40
+            },
+            {
+                "value": "13",
+                "count": 58
+            },
+            {
+                "value": "14",
+                "count": 186
+            },
+            {
+                "value": "15",
+                "count": 202
+            },
+            {
+                "value": "16",
+                "count": 21
+            },
+            {
+                "value": "17",
+                "count": 16
+            },
+            {
+                "value": "18",
+                "count": 27
+            },
+            {
+                "value": "19",
+                "count": 30
+            },
+            {
+                "value": "20",
+                "count": 176
+            },
+            {
+                "value": "21",
+                "count": 3
+            },
+            {
+                "value": "22",
+                "count": 6
+            },
+            {
+                "value": "23",
+                "count": 5
+            },
+            {
+                "value": "24",
+                "count": 23
+            },
+            {
+                "value": "25",
+                "count": 47
+            },
+            {
+                "value": "26",
+                "count": 41
+            },
+            {
+                "value": "27",
+                "count": 64
+            },
+            {
+                "value": "28",
+                "count": 86
+            },
+            {
+                "value": "29",
+                "count": 13
+            },
+            {
+                "value": "30",
+                "count": 44
+            },
+            {
+                "value": "31",
+                "count": 39
+            },
+            {
+                "value": "32",
+                "count": 4
+            },
+            {
+                "value": "33",
+                "count": 68
+            },
+            {
+                "value": "34",
+                "count": 22
+            },
+            {
+                "value": "35",
+                "count": 8
+            },
+            {
+                "value": "36",
+                "count": 5
+            },
+            {
+                "value": "37",
+                "count": 198
+            },
+            {
+                "value": "38",
+                "count": 594
+            },
+            {
+                "value": "39",
+                "count": 76
+            },
+            {
+                "value": "40",
+                "count": 55
+            },
+            {
+                "value": "41",
+                "count": 128
+            },
+            {
+                "value": "42",
+                "count": 28
+            },
+            {
+                "value": "43",
+                "count": 67
+            },
+            {
+                "value": "44",
+                "count": 189
+            },
+            {
+                "value": "45",
+                "count": 7
+            },
+            {
+                "value": "46",
+                "count": 249
+            },
+            {
+                "value": "47",
+                "count": 210
+            },
+            {
+                "value": "48",
+                "count": 146
+            },
+            {
+                "value": "49",
+                "count": 386
+            },
+            {
+                "value": "50",
+                "count": 96
+            },
+            {
+                "value": "51",
+                "count": 41
+            },
+            {
+                "value": "52",
+                "count": 101
+            },
+            {
+                "value": "53",
+                "count": 22
+            },
+            {
+                "value": "54",
+                "count": 154
+            },
+            {
+                "value": "55",
+                "count": 91
+            },
+            {
+                "value": "56",
+                "count": 7
+            },
+            {
+                "value": "57",
+                "count": 4
+            },
+            {
+                "value": "58",
+                "count": 2
+            },
+            {
+                "value": "59",
+                "count": 2
+            },
+            {
+                "value": "60",
+                "count": 18
+            },
+            {
+                "value": "61",
+                "count": 6
+            },
+            {
+                "value": "62",
+                "count": 1
+            },
+            {
+                "value": "65",
+                "count": 127
+            },
+            {
+                "value": "66",
+                "count": 20
+            },
+            {
+                "value": "67",
+                "count": 7
+            },
+            {
+                "value": "68",
+                "count": 3
+            },
+            {
+                "value": "69",
+                "count": 7
+            },
+            {
+                "value": "71",
+                "count": 43
+            }
+        ],
+        "cit": [
+            {
+                "value": "Aachen",
+                "count": 54
+            },
+            {
+                "value": "Aalen",
+                "count": 6
+            },
+            {
+                "value": "Amberg",
+                "count": 2
+            },
+            {
+                "value": "Ansbach",
+                "count": 2
+            },
+            {
+                "value": "Aschaffenburg",
+                "count": 3
+            },
+            {
+                "value": "Augsburg",
+                "count": 11
+            },
+            {
+                "value": "Bad Homburg vor der H\u00f6he",
+                "count": 3
+            },
+            {
+                "value": "Bad Nauheim",
+                "count": 1
+            },
+            {
+                "value": "Bamberg",
+                "count": 11
+            },
+            {
+                "value": "Bayreuth",
+                "count": 30
+            },
+            {
+                "value": "Bergholz-Rehbr\u00fccke",
+                "count": 1
+            },
+            {
+                "value": "Berlin",
+                "count": 198
+            },
+            {
+                "value": "Bernburg / Saale",
+                "count": 4
+            },
+            {
+                "value": "Biberach an der Ri\u00df",
+                "count": 1
+            },
+            {
+                "value": "Bielefeld",
+                "count": 31
+            },
+            {
+                "value": "Bingen am Rhein",
+                "count": 2
+            },
+            {
+                "value": "Birkenfeld",
+                "count": 1
+            },
+            {
+                "value": "Bochum",
+                "count": 23
+            },
+            {
+                "value": "Bonn",
+                "count": 53
+            },
+            {
+                "value": "Brandenburg an der Havel",
+                "count": 1
+            },
+            {
+                "value": "Braunschweig",
+                "count": 9
+            },
+            {
+                "value": "Bremen",
+                "count": 70
+            },
+            {
+                "value": "Burghausen",
+                "count": 1
+            },
+            {
+                "value": "Cham",
+                "count": 3
+            },
+            {
+                "value": "Chemnitz",
+                "count": 11
+            },
+            {
+                "value": "Clausthal-Zellerfeld",
+                "count": 1
+            },
+            {
+                "value": "Coburg",
+                "count": 2
+            },
+            {
+                "value": "Cottbus",
+                "count": 19
+            },
+            {
+                "value": "Darmstadt",
+                "count": 22
+            },
+            {
+                "value": "Deggendorf",
+                "count": 13
+            },
+            {
+                "value": "Dessau-Ro\u00dflau",
+                "count": 5
+            },
+            {
+                "value": "Detmold",
+                "count": 3
+            },
+            {
+                "value": "Dieburg",
+                "count": 4
+            },
+            {
+                "value": "Dortmund",
+                "count": 12
+            },
+            {
+                "value": "Dresden",
+                "count": 41
+            },
+            {
+                "value": "Duisburg",
+                "count": 14
+            },
+            {
+                "value": "D\u00fcsseldorf",
+                "count": 16
+            },
+            {
+                "value": "Eberswalde",
+                "count": 4
+            },
+            {
+                "value": "Eichst\u00e4tt",
+                "count": 3
+            },
+            {
+                "value": "Elsfleth",
+                "count": 1
+            },
+            {
+                "value": "Emden",
+                "count": 4
+            },
+            {
+                "value": "Erfurt",
+                "count": 3
+            },
+            {
+                "value": "Erlangen",
+                "count": 33
+            },
+            {
+                "value": "Essen",
+                "count": 2
+            },
+            {
+                "value": "Esslingen am Neckar",
+                "count": 3
+            },
+            {
+                "value": "Feuchtwangen",
+                "count": 2
+            },
+            {
+                "value": "Flensburg",
+                "count": 7
+            },
+            {
+                "value": "Frankfurt (Oder)",
+                "count": 3
+            },
+            {
+                "value": "Frankfurt am Main",
+                "count": 30
+            },
+            {
+                "value": "Freiberg",
+                "count": 15
+            },
+            {
+                "value": "Freiburg im Breisgau",
+                "count": 32
+            },
+            {
+                "value": "Freising",
+                "count": 8
+            },
+            {
+                "value": "Friedberg (Hessen)",
+                "count": 1
+            },
+            {
+                "value": "Fulda",
+                "count": 14
+            },
+            {
+                "value": "Furtwangen im Schwarzwald",
+                "count": 2
+            },
+            {
+                "value": "Garching b. M\u00fcnchen",
+                "count": 16
+            },
+            {
+                "value": "Geilenkirchen",
+                "count": 3
+            },
+            {
+                "value": "Geisenheim",
+                "count": 2
+            },
+            {
+                "value": "Geislingen an der Steige",
+                "count": 1
+            },
+            {
+                "value": "Gengenbach",
+                "count": 1
+            },
+            {
+                "value": "Germersheim",
+                "count": 4
+            },
+            {
+                "value": "Gie\u00dfen",
+                "count": 20
+            },
+            {
+                "value": "Greifswald",
+                "count": 7
+            },
+            {
+                "value": "Gummersbach",
+                "count": 2
+            },
+            {
+                "value": "G\u00f6rlitz",
+                "count": 1
+            },
+            {
+                "value": "G\u00f6ttingen",
+                "count": 53
+            },
+            {
+                "value": "G\u00fctersloh",
+                "count": 2
+            },
+            {
+                "value": "Halle (Saale)",
+                "count": 5
+            },
+            {
+                "value": "Hamburg",
+                "count": 67
+            },
+            {
+                "value": "Hamm",
+                "count": 5
+            },
+            {
+                "value": "Hannover",
+                "count": 36
+            },
+            {
+                "value": "Heide",
+                "count": 1
+            },
+            {
+                "value": "Heidelberg",
+                "count": 27
+            },
+            {
+                "value": "Heidenheim an der Brenz",
+                "count": 1
+            },
+            {
+                "value": "Heilbronn",
+                "count": 19
+            },
+            {
+                "value": "Hildesheim",
+                "count": 6
+            },
+            {
+                "value": "Hof",
+                "count": 12
+            },
+            {
+                "value": "Hoppst\u00e4dten-Weiersbach",
+                "count": 3
+            },
+            {
+                "value": "H\u00f6xter",
+                "count": 1
+            },
+            {
+                "value": "Idstein",
+                "count": 2
+            },
+            {
+                "value": "Ilmenau",
+                "count": 11
+            },
+            {
+                "value": "Ingolstadt",
+                "count": 26
+            },
+            {
+                "value": "Jena",
+                "count": 24
+            },
+            {
+                "value": "J\u00fclich",
+                "count": 8
+            },
+            {
+                "value": "Kaiserslautern",
+                "count": 23
+            },
+            {
+                "value": "Kamp-Lintfort",
+                "count": 9
+            },
+            {
+                "value": "Karlsruhe",
+                "count": 14
+            },
+            {
+                "value": "Kassel",
+                "count": 19
+            },
+            {
+                "value": "Kehl",
+                "count": 2
+            },
+            {
+                "value": "Kempten (Allg\u00e4u)",
+                "count": 3
+            },
+            {
+                "value": "Kiel",
+                "count": 18
+            },
+            {
+                "value": "Kleve",
+                "count": 13
+            },
+            {
+                "value": "Koblenz",
+                "count": 4
+            },
+            {
+                "value": "Konstanz",
+                "count": 21
+            },
+            {
+                "value": "Kronach",
+                "count": 1
+            },
+            {
+                "value": "Kulmbach",
+                "count": 3
+            },
+            {
+                "value": "K\u00f6ln",
+                "count": 55
+            },
+            {
+                "value": "K\u00f6then / Anhalt",
+                "count": 2
+            },
+            {
+                "value": "K\u00fcnzelsau",
+                "count": 1
+            },
+            {
+                "value": "Landau in der Pfalz",
+                "count": 3
+            },
+            {
+                "value": "Leer (Ostfriesland)",
+                "count": 2
+            },
+            {
+                "value": "Leipzig",
+                "count": 41
+            },
+            {
+                "value": "Lemgo",
+                "count": 2
+            },
+            {
+                "value": "Ludwigshafen am Rhein",
+                "count": 2
+            },
+            {
+                "value": "Lutherstadt Wittenberg",
+                "count": 4
+            },
+            {
+                "value": "L\u00fcbeck",
+                "count": 6
+            },
+            {
+                "value": "L\u00fcneburg",
+                "count": 26
+            },
+            {
+                "value": "Magdeburg",
+                "count": 27
+            },
+            {
+                "value": "Mainz",
+                "count": 21
+            },
+            {
+                "value": "Mannheim",
+                "count": 15
+            },
+            {
+                "value": "Marburg",
+                "count": 18
+            },
+            {
+                "value": "Merseburg / Saale",
+                "count": 1
+            },
+            {
+                "value": "M\u00f6ckern",
+                "count": 3
+            },
+            {
+                "value": "M\u00f6nchengladbach",
+                "count": 4
+            },
+            {
+                "value": "M\u00fcnchberg",
+                "count": 2
+            },
+            {
+                "value": "M\u00fcnchen",
+                "count": 113
+            },
+            {
+                "value": "M\u00fcnster",
+                "count": 41
+            },
+            {
+                "value": "Neu-Ulm",
+                "count": 8
+            },
+            {
+                "value": "Neubrandenburg",
+                "count": 2
+            },
+            {
+                "value": "Neuburg an der Donau",
+                "count": 1
+            },
+            {
+                "value": "Neustadt an der Weinstra\u00dfe",
+                "count": 1
+            },
+            {
+                "value": "N\u00fcrnberg",
+                "count": 15
+            },
+            {
+                "value": "N\u00fcrtingen",
+                "count": 4
+            },
+            {
+                "value": "Oestrich-Winkel",
+                "count": 10
+            },
+            {
+                "value": "Offenburg",
+                "count": 7
+            },
+            {
+                "value": "Oldenburg",
+                "count": 14
+            },
+            {
+                "value": "Osnabr\u00fcck",
+                "count": 15
+            },
+            {
+                "value": "Paderborn",
+                "count": 8
+            },
+            {
+                "value": "Passau",
+                "count": 18
+            },
+            {
+                "value": "Pfarrkirchen",
+                "count": 9
+            },
+            {
+                "value": "Pirmasens",
+                "count": 1
+            },
+            {
+                "value": "Planegg",
+                "count": 2
+            },
+            {
+                "value": "Potsdam",
+                "count": 33
+            },
+            {
+                "value": "Regensburg",
+                "count": 19
+            },
+            {
+                "value": "Remagen",
+                "count": 1
+            },
+            {
+                "value": "Reutlingen",
+                "count": 6
+            },
+            {
+                "value": "Rheinbach",
+                "count": 3
+            },
+            {
+                "value": "Riedlingen",
+                "count": 7
+            },
+            {
+                "value": "Rosenheim",
+                "count": 16
+            },
+            {
+                "value": "Rostock",
+                "count": 6
+            },
+            {
+                "value": "Saarbr\u00fccken",
+                "count": 26
+            },
+            {
+                "value": "Sankt Augustin",
+                "count": 5
+            },
+            {
+                "value": "Schmalkalden",
+                "count": 6
+            },
+            {
+                "value": "Schweinfurt",
+                "count": 8
+            },
+            {
+                "value": "Schw\u00e4bisch Gm\u00fcnd",
+                "count": 1
+            },
+            {
+                "value": "Senftenberg",
+                "count": 1
+            },
+            {
+                "value": "Siegen",
+                "count": 13
+            },
+            {
+                "value": "Singapore",
+                "count": 8
+            },
+            {
+                "value": "Soest",
+                "count": 4
+            },
+            {
+                "value": "Steinfurt",
+                "count": 3
+            },
+            {
+                "value": "Stralsund",
+                "count": 7
+            },
+            {
+                "value": "Straubing",
+                "count": 2
+            },
+            {
+                "value": "Stuttgart",
+                "count": 45
+            },
+            {
+                "value": "Tharandt",
+                "count": 1
+            },
+            {
+                "value": "Traunstein",
+                "count": 2
+            },
+            {
+                "value": "Trier",
+                "count": 18
+            },
+            {
+                "value": "Tuttlingen",
+                "count": 1
+            },
+            {
+                "value": "T\u00fcbingen",
+                "count": 46
+            },
+            {
+                "value": "Ulm",
+                "count": 16
+            },
+            {
+                "value": "Vallendar",
+                "count": 7
+            },
+            {
+                "value": "Villingen-Schwenningen",
+                "count": 9
+            },
+            {
+                "value": "Wedel (Holstein)",
+                "count": 1
+            },
+            {
+                "value": "Weiden in der Oberpfalz",
+                "count": 5
+            },
+            {
+                "value": "Weidenbach",
+                "count": 2
+            },
+            {
+                "value": "Weimar",
+                "count": 16
+            },
+            {
+                "value": "Weingarten",
+                "count": 9
+            },
+            {
+                "value": "Wernigerode",
+                "count": 1
+            },
+            {
+                "value": "Wiesbaden",
+                "count": 1
+            },
+            {
+                "value": "Wildau",
+                "count": 7
+            },
+            {
+                "value": "Wilhelmshaven",
+                "count": 3
+            },
+            {
+                "value": "Wismar",
+                "count": 5
+            },
+            {
+                "value": "Witten",
+                "count": 2
+            },
+            {
+                "value": "Witzenhausen",
+                "count": 3
+            },
+            {
+                "value": "Wolfenb\u00fcttel",
+                "count": 2
+            },
+            {
+                "value": "Wolfsburg",
+                "count": 1
+            },
+            {
+                "value": "Worms",
+                "count": 3
+            },
+            {
+                "value": "Wuppertal",
+                "count": 2
+            },
+            {
+                "value": "W\u00fcrzburg",
+                "count": 35
+            },
+            {
+                "value": "Zittau",
+                "count": 2
+            },
+            {
+                "value": "Zweibr\u00fccken",
+                "count": 3
+            },
+            {
+                "value": "Zwickau",
+                "count": 14
+            }
+        ],
+        "tyi": [
+            {
+                "value": "0",
+                "count": 1
+            },
+            {
+                "value": "1",
+                "count": 1547
+            },
+            {
+                "value": "2",
+                "count": 697
+            },
+            {
+                "value": "3",
+                "count": 1
+            },
+            {
+                "value": "99",
+                "count": 31
+            }
+        ],
+        "ins": [
+            {
+                "value": "1",
+                "count": 47
+            },
+            {
+                "value": "2",
+                "count": 19
+            },
+            {
+                "value": "3",
+                "count": 6
+            },
+            {
+                "value": "5",
+                "count": 11
+            },
+            {
+                "value": "6",
+                "count": 7
+            },
+            {
+                "value": "7",
+                "count": 4
+            },
+            {
+                "value": "8",
+                "count": 11
+            },
+            {
+                "value": "9",
+                "count": 33
+            },
+            {
+                "value": "11",
+                "count": 43
+            },
+            {
+                "value": "12",
+                "count": 11
+            },
+            {
+                "value": "13",
+                "count": 21
+            },
+            {
+                "value": "14",
+                "count": 5
+            },
+            {
+                "value": "15",
+                "count": 1
+            },
+            {
+                "value": "16",
+                "count": 10
+            },
+            {
+                "value": "17",
+                "count": 28
+            },
+            {
+                "value": "18",
+                "count": 2
+            },
+            {
+                "value": "26",
+                "count": 1
+            },
+            {
+                "value": "27",
+                "count": 30
+            },
+            {
+                "value": "28",
+                "count": 3
+            },
+            {
+                "value": "29",
+                "count": 22
+            },
+            {
+                "value": "32",
+                "count": 49
+            },
+            {
+                "value": "34",
+                "count": 1
+            },
+            {
+                "value": "35",
+                "count": 8
+            },
+            {
+                "value": "36",
+                "count": 3
+            },
+            {
+                "value": "38",
+                "count": 26
+            },
+            {
+                "value": "40",
+                "count": 15
+            },
+            {
+                "value": "42",
+                "count": 11
+            },
+            {
+                "value": "43",
+                "count": 1
+            },
+            {
+                "value": "44",
+                "count": 3
+            },
+            {
+                "value": "45",
+                "count": 20
+            },
+            {
+                "value": "46",
+                "count": 15
+            },
+            {
+                "value": "47",
+                "count": 10
+            },
+            {
+                "value": "49",
+                "count": 1
+            },
+            {
+                "value": "51",
+                "count": 12
+            },
+            {
+                "value": "53",
+                "count": 32
+            },
+            {
+                "value": "54",
+                "count": 4
+            },
+            {
+                "value": "59",
+                "count": 15
+            },
+            {
+                "value": "64",
+                "count": 4
+            },
+            {
+                "value": "65",
+                "count": 9
+            },
+            {
+                "value": "66",
+                "count": 3
+            },
+            {
+                "value": "70",
+                "count": 41
+            },
+            {
+                "value": "71",
+                "count": 16
+            },
+            {
+                "value": "73",
+                "count": 3
+            },
+            {
+                "value": "76",
+                "count": 7
+            },
+            {
+                "value": "78",
+                "count": 14
+            },
+            {
+                "value": "79",
+                "count": 3
+            },
+            {
+                "value": "83",
+                "count": 12
+            },
+            {
+                "value": "84",
+                "count": 3
+            },
+            {
+                "value": "85",
+                "count": 15
+            },
+            {
+                "value": "86",
+                "count": 26
+            },
+            {
+                "value": "87",
+                "count": 4
+            },
+            {
+                "value": "91",
+                "count": 3
+            },
+            {
+                "value": "92",
+                "count": 14
+            },
+            {
+                "value": "94",
+                "count": 14
+            },
+            {
+                "value": "96",
+                "count": 19
+            },
+            {
+                "value": "97",
+                "count": 2
+            },
+            {
+                "value": "98",
+                "count": 53
+            },
+            {
+                "value": "99",
+                "count": 8
+            },
+            {
+                "value": "101",
+                "count": 9
+            },
+            {
+                "value": "104",
+                "count": 25
+            },
+            {
+                "value": "105",
+                "count": 11
+            },
+            {
+                "value": "107",
+                "count": 9
+            },
+            {
+                "value": "112",
+                "count": 9
+            },
+            {
+                "value": "114",
+                "count": 22
+            },
+            {
+                "value": "115",
+                "count": 6
+            },
+            {
+                "value": "118",
+                "count": 1
+            },
+            {
+                "value": "119",
+                "count": 16
+            },
+            {
+                "value": "125",
+                "count": 15
+            },
+            {
+                "value": "127",
+                "count": 5
+            },
+            {
+                "value": "128",
+                "count": 1
+            },
+            {
+                "value": "129",
+                "count": 18
+            },
+            {
+                "value": "130",
+                "count": 11
+            },
+            {
+                "value": "133",
+                "count": 22
+            },
+            {
+                "value": "134",
+                "count": 1
+            },
+            {
+                "value": "135",
+                "count": 24
+            },
+            {
+                "value": "136",
+                "count": 14
+            },
+            {
+                "value": "142",
+                "count": 22
+            },
+            {
+                "value": "143",
+                "count": 3
+            },
+            {
+                "value": "144",
+                "count": 15
+            },
+            {
+                "value": "145",
+                "count": 3
+            },
+            {
+                "value": "146",
+                "count": 4
+            },
+            {
+                "value": "147",
+                "count": 27
+            },
+            {
+                "value": "149",
+                "count": 14
+            },
+            {
+                "value": "154",
+                "count": 18
+            },
+            {
+                "value": "155",
+                "count": 2
+            },
+            {
+                "value": "159",
+                "count": 28
+            },
+            {
+                "value": "165",
+                "count": 5
+            },
+            {
+                "value": "168",
+                "count": 2
+            },
+            {
+                "value": "169",
+                "count": 4
+            },
+            {
+                "value": "171",
+                "count": 26
+            },
+            {
+                "value": "172",
+                "count": 24
+            },
+            {
+                "value": "173",
+                "count": 3
+            },
+            {
+                "value": "174",
+                "count": 21
+            },
+            {
+                "value": "176",
+                "count": 8
+            },
+            {
+                "value": "177",
+                "count": 3
+            },
+            {
+                "value": "179",
+                "count": 18
+            },
+            {
+                "value": "183",
+                "count": 65
+            },
+            {
+                "value": "184",
+                "count": 61
+            },
+            {
+                "value": "191",
+                "count": 33
+            },
+            {
+                "value": "192",
+                "count": 6
+            },
+            {
+                "value": "195",
+                "count": 2
+            },
+            {
+                "value": "197",
+                "count": 4
+            },
+            {
+                "value": "200",
+                "count": 6
+            },
+            {
+                "value": "203",
+                "count": 5
+            },
+            {
+                "value": "206",
+                "count": 10
+            },
+            {
+                "value": "208",
+                "count": 8
+            },
+            {
+                "value": "209",
+                "count": 14
+            },
+            {
+                "value": "211",
+                "count": 9
+            },
+            {
+                "value": "214",
+                "count": 6
+            },
+            {
+                "value": "215",
+                "count": 8
+            },
+            {
+                "value": "218",
+                "count": 18
+            },
+            {
+                "value": "221",
+                "count": 33
+            },
+            {
+                "value": "224",
+                "count": 9
+            },
+            {
+                "value": "225",
+                "count": 14
+            },
+            {
+                "value": "226",
+                "count": 5
+            },
+            {
+                "value": "227",
+                "count": 6
+            },
+            {
+                "value": "231",
+                "count": 1
+            },
+            {
+                "value": "232",
+                "count": 19
+            },
+            {
+                "value": "233",
+                "count": 3
+            },
+            {
+                "value": "235",
+                "count": 20
+            },
+            {
+                "value": "236",
+                "count": 5
+            },
+            {
+                "value": "242",
+                "count": 6
+            },
+            {
+                "value": "243",
+                "count": 1
+            },
+            {
+                "value": "245",
+                "count": 13
+            },
+            {
+                "value": "247",
+                "count": 6
+            },
+            {
+                "value": "248",
+                "count": 18
+            },
+            {
+                "value": "250",
+                "count": 2
+            },
+            {
+                "value": "251",
+                "count": 4
+            },
+            {
+                "value": "252",
+                "count": 1
+            },
+            {
+                "value": "255",
+                "count": 13
+            },
+            {
+                "value": "258",
+                "count": 46
+            },
+            {
+                "value": "259",
+                "count": 13
+            },
+            {
+                "value": "260",
+                "count": 3
+            },
+            {
+                "value": "261",
+                "count": 7
+            },
+            {
+                "value": "263",
+                "count": 1
+            },
+            {
+                "value": "264",
+                "count": 5
+            },
+            {
+                "value": "266",
+                "count": 16
+            },
+            {
+                "value": "269",
+                "count": 1
+            },
+            {
+                "value": "271",
+                "count": 26
+            },
+            {
+                "value": "272",
+                "count": 11
+            },
+            {
+                "value": "274",
+                "count": 8
+            },
+            {
+                "value": "275",
+                "count": 2
+            },
+            {
+                "value": "276",
+                "count": 28
+            },
+            {
+                "value": "277",
+                "count": 15
+            },
+            {
+                "value": "279",
+                "count": 2
+            },
+            {
+                "value": "280",
+                "count": 7
+            },
+            {
+                "value": "283",
+                "count": 14
+            },
+            {
+                "value": "284",
+                "count": 25
+            },
+            {
+                "value": "287",
+                "count": 14
+            },
+            {
+                "value": "288",
+                "count": 21
+            },
+            {
+                "value": "291",
+                "count": 9
+            },
+            {
+                "value": "294",
+                "count": 9
+            },
+            {
+                "value": "295",
+                "count": 5
+            },
+            {
+                "value": "304",
+                "count": 2
+            },
+            {
+                "value": "305",
+                "count": 1
+            },
+            {
+                "value": "306",
+                "count": 6
+            },
+            {
+                "value": "307",
+                "count": 3
+            },
+            {
+                "value": "308",
+                "count": 9
+            },
+            {
+                "value": "309",
+                "count": 3
+            },
+            {
+                "value": "310",
+                "count": 4
+            },
+            {
+                "value": "312",
+                "count": 4
+            },
+            {
+                "value": "313",
+                "count": 7
+            },
+            {
+                "value": "319",
+                "count": 8
+            },
+            {
+                "value": "326",
+                "count": 4
+            },
+            {
+                "value": "327",
+                "count": 27
+            },
+            {
+                "value": "333",
+                "count": 3
+            },
+            {
+                "value": "343",
+                "count": 4
+            },
+            {
+                "value": "354",
+                "count": 3
+            },
+            {
+                "value": "358",
+                "count": 1
+            },
+            {
+                "value": "362",
+                "count": 2
+            },
+            {
+                "value": "376",
+                "count": 6
+            },
+            {
+                "value": "384",
+                "count": 5
+            },
+            {
+                "value": "389",
+                "count": 5
+            },
+            {
+                "value": "394",
+                "count": 3
+            },
+            {
+                "value": "399",
+                "count": 2
+            },
+            {
+                "value": "400",
+                "count": 22
+            },
+            {
+                "value": "401",
+                "count": 2
+            },
+            {
+                "value": "405",
+                "count": 6
+            },
+            {
+                "value": "25006",
+                "count": 1
+            },
+            {
+                "value": "25009",
+                "count": 1
+            },
+            {
+                "value": "25010",
+                "count": 1
+            },
+            {
+                "value": "25012",
+                "count": 1
+            },
+            {
+                "value": "25015",
+                "count": 1
+            },
+            {
+                "value": "25016",
+                "count": 2
+            },
+            {
+                "value": "25018",
+                "count": 1
+            },
+            {
+                "value": "25019",
+                "count": 1
+            },
+            {
+                "value": "25020",
+                "count": 1
+            },
+            {
+                "value": "25026",
+                "count": 1
+            },
+            {
+                "value": "25027",
+                "count": 1
+            },
+            {
+                "value": "25028",
+                "count": 1
+            },
+            {
+                "value": "25037",
+                "count": 1
+            },
+            {
+                "value": "25045",
+                "count": 1
+            },
+            {
+                "value": "25049",
+                "count": 3
+            },
+            {
+                "value": "25053",
+                "count": 1
+            },
+            {
+                "value": "25056",
+                "count": 1
+            },
+            {
+                "value": "25063",
+                "count": 1
+            },
+            {
+                "value": "25068",
+                "count": 1
+            },
+            {
+                "value": "25078",
+                "count": 1
+            },
+            {
+                "value": "25081",
+                "count": 1
+            },
+            {
+                "value": "25082",
+                "count": 7
+            },
+            {
+                "value": "25084",
+                "count": 1
+            },
+            {
+                "value": "25094",
+                "count": 4
+            },
+            {
+                "value": "25097",
+                "count": 1
+            },
+            {
+                "value": "25107",
+                "count": 1
+            },
+            {
+                "value": "25114",
+                "count": 3
+            },
+            {
+                "value": "25134",
+                "count": 2
+            },
+            {
+                "value": "25141",
+                "count": 9
+            },
+            {
+                "value": "25142",
+                "count": 3
+            },
+            {
+                "value": "25143",
+                "count": 1
+            },
+            {
+                "value": "25146",
+                "count": 1
+            },
+            {
+                "value": "25165",
+                "count": 1
+            },
+            {
+                "value": "25173",
+                "count": 1
+            },
+            {
+                "value": "25177",
+                "count": 1
+            },
+            {
+                "value": "25178",
+                "count": 2
+            },
+            {
+                "value": "25181",
+                "count": 1
+            },
+            {
+                "value": "25184",
+                "count": 2
+            },
+            {
+                "value": "25188",
+                "count": 3
+            },
+            {
+                "value": "25189",
+                "count": 1
+            },
+            {
+                "value": "25190",
+                "count": 1
+            },
+            {
+                "value": "25195",
+                "count": 1
+            },
+            {
+                "value": "25197",
+                "count": 58
+            },
+            {
+                "value": "25198",
+                "count": 1
+            }
+        ],
+        "cert": 14,
+        "admReq": 2,
+        "langExamPC": 24,
+        "langExamLC": 23,
+        "langExamSC": 0,
+        "scholarshipLC": 65,
+        "scholarshipSC": 8,
+        "lvlDe": [
+            {
+                "value": "A1-A2",
+                "count": 69
+            },
+            {
+                "value": "B1-B2",
+                "count": 106
+            },
+            {
+                "value": "C1-C2",
+                "count": 97
+            }
+        ],
+        "lvlEn": [
+            {
+                "value": "A1-A2",
+                "count": 3
+            },
+            {
+                "value": "B1-B2",
+                "count": 105
+            },
+            {
+                "value": "C1-C2",
+                "count": 56
+            }
+        ],
+        "langDeAvailable": 668,
+        "langEnAvailable": 337,
+        "modStd": [
+            {
+                "value": "1",
+                "count": 43
+            },
+            {
+                "value": "2",
+                "count": 41
+            },
+            {
+                "value": "4",
+                "count": 9
+            },
+            {
+                "value": "5",
+                "count": 143
+            },
+            {
+                "value": "6",
+                "count": 18
+            },
+            {
+                "value": "7",
+                "count": 1893
+            },
+            {
+                "value": "8",
+                "count": 104
+            }
+        ],
+        "bgn": [
+            {
+                "value": "1",
+                "count": 1926
+            },
+            {
+                "value": "2",
+                "count": 788
+            },
+            {
+                "value": "5",
+                "count": 93
+            }
+        ],
+        "dat": [
+            {
+                "value": "2024-08",
+                "count": 1
+            },
+            {
+                "value": "2024-09",
+                "count": 3
+            },
+            {
+                "value": "2024-10",
+                "count": 11
+            },
+            {
+                "value": "2024-11",
+                "count": 11
+            },
+            {
+                "value": "2024-12",
+                "count": 11
+            },
+            {
+                "value": "2025-01",
+                "count": 40
+            },
+            {
+                "value": "2025-02",
+                "count": 21
+            },
+            {
+                "value": "2025-03",
+                "count": 34
+            },
+            {
+                "value": "2025-04",
+                "count": 33
+            },
+            {
+                "value": "2025-05",
+                "count": 32
+            },
+            {
+                "value": "2025-06",
+                "count": 75
+            },
+            {
+                "value": "2025-07",
+                "count": 121
+            },
+            {
+                "value": "2025-08",
+                "count": 113
+            },
+            {
+                "value": "2025-09",
+                "count": 37
+            },
+            {
+                "value": "2025-10",
+                "count": 34
+            },
+            {
+                "value": "2025-11",
+                "count": 33
+            },
+            {
+                "value": "2025-12",
+                "count": 30
+            },
+            {
+                "value": "2026-01",
+                "count": 26
+            },
+            {
+                "value": "2026-02",
+                "count": 24
+            },
+            {
+                "value": "2026-03",
+                "count": 18
+            },
+            {
+                "value": "2026-04",
+                "count": 14
+            },
+            {
+                "value": "2026-05",
+                "count": 14
+            },
+            {
+                "value": "2026-06",
+                "count": 14
+            },
+            {
+                "value": "2026-07",
+                "count": 10
+            },
+            {
+                "value": "2026-08",
+                "count": 10
+            },
+            {
+                "value": "2026-09",
+                "count": 5
+            },
+            {
+                "value": "2026-10",
+                "count": 3
+            }
+        ],
+        "dur": [
+            {
+                "label_after": "2 weeks",
+                "label_before": "1 week",
+                "value": "1",
+                "count": 24
+            },
+            {
+                "label_after": "1 month",
+                "label_before": "2 weeks",
+                "value": "2",
+                "count": 132
+            },
+            {
+                "label_after": "3 months",
+                "label_before": "1 month",
+                "value": "3",
+                "count": 42
+            },
+            {
+                "label_after": "6 months",
+                "label_before": "3 months",
+                "value": "4",
+                "count": 29
+            },
+            {
+                "label_after": "1 year",
+                "label_before": "6 months",
+                "value": "5",
+                "count": 91
+            },
+            {
+                "label_after": "2 years",
+                "label_before": "1 year",
+                "value": "6",
+                "count": 1502
+            },
+            {
+                "label_after": "3 years",
+                "label_before": "2 years",
+                "value": "7",
+                "count": 1515
+            },
+            {
+                "label_after": "4 years",
+                "label_before": "3 years",
+                "value": "8",
+                "count": 501
+            },
+            {
+                "label_after": "More than 4 years",
+                "label_before": "4 years",
+                "value": "9",
+                "count": 104
+            }
+        ],
+        "fee": [
+            {
+                "value": "1",
+                "count": 1290
+            },
+            {
+                "value": "2",
+                "count": 1313
+            },
+            {
+                "value": "3",
+                "count": 1523
+            },
+            {
+                "value": "4",
+                "count": 1685
+            }
+        ],
+        "prep_subj": [
+            {
+                "value": "1",
+                "count": 7
+            },
+            {
+                "value": "2",
+                "count": 6
+            },
+            {
+                "value": "3",
+                "count": 23
+            },
+            {
+                "value": "4",
+                "count": 10
+            },
+            {
+                "value": "5",
+                "count": 23
+            },
+            {
+                "value": "6",
+                "count": 20
+            },
+            {
+                "value": "7",
+                "count": 7
+            },
+            {
+                "value": "8",
+                "count": 4
+            },
+            {
+                "value": "9",
+                "count": 5
+            }
+        ],
+        "prep_degree": [
+            {
+                "value": "Bachelor",
+                "count": 27
+            },
+            {
+                "value": "Master",
+                "count": 14
+            },
+            {
+                "value": "State examination",
+                "count": 5
+            }
+        ],
+        "elearning_element": [
+            {
+                "value": "1",
+                "count": 182
+            },
+            {
+                "value": "2",
+                "count": 11
+            },
+            {
+                "value": "3",
+                "count": 123
+            },
+            {
+                "value": "4",
+                "count": 156
+            },
+            {
+                "value": "5",
+                "count": 92
+            },
+            {
+                "value": "6",
+                "count": 48
+            },
+            {
+                "value": "7",
+                "count": 32
+            },
+            {
+                "value": "8",
+                "count": 31
+            },
+            {
+                "value": "9",
+                "count": 251
+            },
+            {
+                "value": "10",
+                "count": 208
+            },
+            {
+                "value": "11",
+                "count": 129
+            },
+            {
+                "value": "12",
+                "count": 18
+            },
+            {
+                "value": "13",
+                "count": 139
+            },
+            {
+                "value": "14",
+                "count": 38
+            }
+        ]
+    }
+}
